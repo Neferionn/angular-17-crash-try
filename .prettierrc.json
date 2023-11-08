@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "trailingComa": "es5",
+  "endOfLine": "auto",
+  "bracketSameLine": true,
+  "printWidth": 80,
+  "htmlWhiteSpaceSensitivity": "ignore"
+}
